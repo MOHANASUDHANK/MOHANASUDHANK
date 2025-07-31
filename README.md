@@ -8,7 +8,7 @@
   </a>
 </p>
 
-I'm a Full-Stack Developer and a Computer Science undergraduate specializing in Cyber Security[cite: 6]. I thrive on building efficient, scalable web applications from scratch and love bringing ideas to life with code.
+I'm a Full-Stack Developer and a Computer Science undergraduate specializing in Cyber Security. I thrive on building efficient, scalable web applications from scratch and love bringing ideas to life with code.
 
 ---
 
